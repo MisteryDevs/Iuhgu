@@ -17,13 +17,13 @@ from DvisSearch import FastYoutubeSearch
 
 # ================= CONFIG =================
 
-API_ID = int(os.getenv("API_ID", "123456"))
-API_HASH = os.getenv("API_HASH", "API_HASH")
+API_ID = int(os.getenv("API_ID", "14050586"))
+API_HASH = os.getenv("API_HASH", "42a60d9c657b106370c79bb0a8ac560c")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "BOT_TOKEN")
 SESSION_STRING = os.getenv("SESSION_STRING", "USER_SESSION_STRING")
 
-MONGO_URL = os.getenv("MONGO_URL", "MONGO_URL")
-CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001234567890"))
+MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
+CHANNEL_ID = int(os.getenv("CHANNEL_ID", "RishuFile"))
 PORT = int(os.getenv("PORT", "2020"))
 
 BOT_LIMIT_MB = 1900
