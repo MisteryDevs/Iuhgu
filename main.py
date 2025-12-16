@@ -22,7 +22,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 SESSION_STRING = os.getenv("SESSION_STRING")
 
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
-CHANNEL_ID = int(os.getenv("CHANNEL_ID", "RishuFile"))
+CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1003643287320"))
 PORT = int(os.getenv("PORT", "2020"))
 
 BOT_LIMIT_MB = 1900
