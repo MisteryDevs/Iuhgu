@@ -13,8 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from pyrogram import Client, idle
 from motor.motor_asyncio import AsyncIOMotorClient
-from DvisSearch import FastYoutubeSearch
-
+from youtubesearchpython import VideosSearch
 # ================= CONFIG =================
 
 API_ID = int(os.getenv("API_ID", "14050586"))
