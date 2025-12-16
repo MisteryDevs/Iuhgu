@@ -8,5 +8,4 @@ pymongo
 dnspython
 python-dotenv
 
-pyrogram-dvis @ https://github.com/IamDvis/pyrogram/archive/dvis.zip
-yt-dvis @ https://github.com/sidhubad143/YT/archive/dvis.zip
+youtube-search-python
