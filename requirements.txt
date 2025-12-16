@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiohttp
+pyrogram
+tgcrypto
+motor
+pymongo
+dnspython
+DvisSearch
+python-dotenv
