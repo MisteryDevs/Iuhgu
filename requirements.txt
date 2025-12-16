@@ -6,5 +6,4 @@ tgcrypto
 motor
 pymongo
 dnspython
-DvisSearch
 python-dotenv
