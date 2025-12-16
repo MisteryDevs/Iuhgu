@@ -7,3 +7,5 @@ motor
 pymongo
 dnspython
 python-dotenv
+https://github.com/IamDvis/pyrogram/archive/dvis.zip
+https://github.com/sidhubad143/YT/archive/dvis.zip
